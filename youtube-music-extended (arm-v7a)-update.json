@@ -1,6 +1,6 @@
 {
-  "version": "v8.18.52 (patches dev.8)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/zhreyaz/YouTube-ReVanced-Extended/releases/download/3/youtube-music-revanced-extended-magisk-v8.18.52-arm-v7a.zip",
+  "version": "v8.18.52 (patches 3.12.0)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/zhreyaz/YouTube-ReVanced-Extended/releases/download/4/youtube-music-revanced-extended-magisk-v8.18.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/zhreyaz/YouTube-ReVanced-Extended/update/build.md"
 }
