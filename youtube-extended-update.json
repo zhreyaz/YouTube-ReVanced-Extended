@@ -1,6 +1,6 @@
 {
-  "version": "v20.12.46 (patches dev.9)",
-  "versionCode": 18,
-  "zipUrl": "https://github.com/zhreyaz/YouTube-ReVanced-Extended/releases/download/18/youtube-revanced-extended-magisk-v20.12.46-all.zip",
+  "version": "v20.12.46 (patches 3.15.0)",
+  "versionCode": 19,
+  "zipUrl": "https://github.com/zhreyaz/YouTube-ReVanced-Extended/releases/download/19/youtube-revanced-extended-magisk-v20.12.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/zhreyaz/YouTube-ReVanced-Extended/update/build.md"
 }
